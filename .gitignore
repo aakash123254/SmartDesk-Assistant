@@ -1,0 +1,30 @@
+# Ignore environment variables
+.env
+
+# Ignore Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore memory file backups
+*.bak
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit specific logs
+.streamlit/
+
+# Ignore uploaded files (if stored locally)
+uploads/
+temp/
+cache/
+
+# Ignore model cache folders (optional)
+models/
