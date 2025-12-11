@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+sentence-transformers
+torch
+numpy
+google-generativeai
+PyPDF2
+requests
+pymupdf
