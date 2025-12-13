@@ -28,3 +28,6 @@ cache/
 
 # Ignore model cache folders (optional)
 models/
+
+agent/memory.json
+agent/*.json
