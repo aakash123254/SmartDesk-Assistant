@@ -283,3 +283,8 @@ def extract_text_from_pdf(uploaded_file) -> str:
             error_msg += "\n\nThis might not be a valid PDF file."
         
         return error_msg
+    
+    
+    
+    
+    
