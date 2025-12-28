@@ -296,3 +296,9 @@ def extract_text_from_pdf(uploaded_file) -> str:
 
 
 
+
+
+
+
+
+
