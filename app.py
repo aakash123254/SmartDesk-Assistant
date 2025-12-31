@@ -272,3 +272,6 @@ if show_memory:
 # Footer
 st.markdown("---")
 st.caption("Built with RAG + Gemini + Local Memory | SmartDesk Assistant v2.0 (Fixed)")
+
+
+
