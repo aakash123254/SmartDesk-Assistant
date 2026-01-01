@@ -275,3 +275,6 @@ st.caption("Built with RAG + Gemini + Local Memory | SmartDesk Assistant v2.0 (F
 
 
 
+
+
+
