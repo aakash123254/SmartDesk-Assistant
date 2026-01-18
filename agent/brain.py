@@ -748,3 +748,11 @@ def get_stats() -> Dict[str, Any]:
         "avg_chunk_size": f"{avg_chunk_size:.0f} chars",
         "similarity_threshold": SIMILARITY_THRESHOLD
     }
+    
+    
+    
+
+
+
+
+
